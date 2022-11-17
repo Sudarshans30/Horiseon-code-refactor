@@ -8,4 +8,6 @@ Usage
 when the user navigates to the webpage, they will see zero cahnges from the original version.
 
 Screenshot of the version finished
+  
 
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/117637113/202427648-ba13937a-2d92-48ae-bc0a-e689ce97cff4.png)
